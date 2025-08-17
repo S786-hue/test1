@@ -1,7 +1,24 @@
+Feature 1
+// Some login code with OTP
+//75%
+########### This Above Lines will be stored in a hidden git area temp + ####
 
+<<<<<<< Updated upstream
 ####### Error########
 
 Fixed it 
 Ooty
  Bengaluru
 Welcome
+=======
+Ooty
+Bengaluru
+Welcome
+
+Hello World
+
+Pankag Sir Academy
+Pankag Sir Academy
+
+Pankag Sir Academy
+>>>>>>> Stashed changes
